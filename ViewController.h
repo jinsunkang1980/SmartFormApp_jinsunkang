@@ -1,4 +1,4 @@
-objc//
+//
 //  ViewController.h
 
 #import <UIKit/UIKit.h>
@@ -12,9 +12,8 @@ objc//
 @property (nonatomic, strong) UIButton *submitButton;
 @property (nonatomic, strong) UILabel *statusLabel;
 
-// Bonus Components (Optional)
-@property (nonatomic, strong) UIPickerView *languagePicker;
-@property (nonatomic, strong) NSArray<NSString *> *languages;
+// VMware-Optimized Bonus Components
+@property (nonatomic, strong) UISegmentedControl *languageSegment;
 @property (nonatomic, strong) UILabel *selectedLanguageLabel;
 
 @end
