@@ -1,5 +1,6 @@
-objc//
+//
 //  AppDelegate.h
+//
 
 #import <UIKit/UIKit.h>
 
