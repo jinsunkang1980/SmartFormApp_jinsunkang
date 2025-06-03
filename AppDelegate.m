@@ -1,9 +1,5 @@
 objc//
 //  AppDelegate.m
-//  Lec-5
-//
-//  Created by Abhi Patel on 2025-05-26.
-//
 
 #import "AppDelegate.h"
 
