@@ -1,4 +1,4 @@
-objc//
+//
 //  SceneDelegate.h
 
 #import <UIKit/UIKit.h>
